@@ -42,7 +42,7 @@ Comandos de auxilio:
 
 ```
 
-```
-Caso necessário contatar membros do grupo para auxilio...
-```
+
+*Caso necessário contatar membros do grupo para auxilio...
+
 
