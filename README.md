@@ -7,7 +7,7 @@ conteúdo desejado, como novas tecnologias, metodologias e afins.
 # Divisão Conteúdo
 
 Separamos o conteúdo de atividades através do Kanban disponibilizado no trello para acompanhamento de tarefas 
-https://trello.com/b/kcjDcg32/inuts-web e os designs de tela serão disponibilizados no Figma (em breve url para acesso)
+https://trello.com/b/kcjDcg32/inuts-web e os designs de tela serão disponibilizados no Figma https://www.figma.com/file/ZqYWlF7ogRnypSE5wzAXHX/Untitled?node-id=0%3A1
 
 ```
 Abrir nova tarefa na coluna TO DO sempre que necessário especificar um novo cenário de desenvolvimento.
